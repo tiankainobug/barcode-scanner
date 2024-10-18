@@ -1,2 +1,0 @@
-# barcode-scanner
-barcode-scanner
