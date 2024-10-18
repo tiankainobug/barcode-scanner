@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.929771aeb00191323b54541fe6fbdbba.js"
+  "precache-manifest.19bf64afb35045ed4a43ed1d3db05f6a.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "scanning"});
